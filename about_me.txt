@@ -2,3 +2,5 @@ My name is Hooriya.
 This is my first GitHub assignment.
 I love learning new technologies.
 Git is very interesting to use!
+I love working on web development projects.
+This assignment is helping me understand Git operations.
