@@ -1,0 +1,4 @@
+My name is Hooriya.
+This is my first GitHub assignment.
+I love learning new technologies.
+Git is very interesting to use!
